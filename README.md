@@ -16,5 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### 📊 GitHub Overview
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xu62u4u6&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xu62u4u6&layout=compact&theme=transparent)
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xu62u4u6&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xu62u4u6&layout=compact&theme=transparent&hide_border=true&hide=Jupyter%20Notebook,HTML,TeX"/>
+  <!-- <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=xu62u4u6&theme=transparent&hide_border=true"/> -->
+</p>
